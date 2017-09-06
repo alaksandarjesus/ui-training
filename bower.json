@@ -1,0 +1,17 @@
+{
+  "name": "day13",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "alaksandarjesus <alaksandarjesus@yahoo.co.in>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alaksandarjesus/ui-training",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
