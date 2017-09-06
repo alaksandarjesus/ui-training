@@ -113,9 +113,9 @@ Sharing the libraries
         3. add the files
         4. commit the files (short description on what you have done)
         5. push
+        ---- create pull request (a notification will be sent to the administrators)----
         
-        
-        
+        I am only on the branch codeschange
         
         
         
