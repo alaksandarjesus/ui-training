@@ -1,0 +1,255 @@
+RECAP
+================================
+Webdevelopment
+    -> Front End Development (HTML, CSS & JS)
+    -> Backend Development (PHP, RUBY, JAVA) && (Databases)
+    
+Front End Development (HTML, CSS & JS)
+    -> HTML
+        -> Defined with tags <>
+        -> display the data
+        -> hide the data but use it for processing
+        -> error not thrown, you need to check it with IDE
+        -> id and class, which will act as a reference for the element
+    -> CSS
+        -> style the page (change the properties of the html)(on load only)
+        -> background, color, margin, padding, displays
+        -> error will be thrown, css code will not work (for wrong syntax)
+            {
+                display:block  /*miss the semicolon*/
+                background:black;
+            }
+        -> id and class, which will act as a reference for the element
+    -> JS
+        -> can change the properties of the html tags on the fly
+        -> capture the user actions -> click/move the mouse/ enter a key
+        -> in case of error, you can see the error in console outputs in developer tools
+        -> id and class, which will act as a reference for the element
+        
+Core codes -> 90% we dont use core codes.
+
+Open source codes (Free to download and Free to use)
+
+CSS -> Frameworks
+        -> Bootstrap
+        -> Foundation
+        -> pure
+        -> materialize
+        
+        -> All codes are coded with classes
+            -> copy the respective class and put it in your html class attribute
+            -> search for buttons -> size (lg, sm, md), color(5 colors), display(btn-block, btn-group)
+            -> <button class="btn-lg btn-primary">SignIn</button>
+            
+JS  -> Libraries (standalone, pure javascript codes) -> jQuery
+            -> set of frequently used functions 
+                -> Show and hide a element
+                    -> dropdown menu
+                    -> accordin menus
+                    -> login -> login fails, then show the message
+                -> $.each
+            -> lodash
+                -> set of javascript function used not limited to jquery functions
+                -> _.each
+            -> moment js
+                -> work with timings
+                    -> about a minute ago
+                    -> 5 hours ago
+                    -> moment(yourdate).fromNow()
+    -> Plugins (dependent on libraries, javascript + html)
+            -> default select html can be replaced with good user interface
+            -> jQuery will be depenent
+            -> calendar
+            
+    -> Frameworks (Angular, React, Backbone(obselete))
+            -> routing + library
+            
+=========================================================================
+Working on a project
+        -> development -> develop the code (local server)
+        -> production -> ready to use (live server)
+        
+Working as a team
+        -> including libraries for development purpose
+        -> change the codes
+        -> equivalent to sharing the code in a pendrive,
+                -> there will be respository for the code sharing
+                -> GitHub
+                        -> private projects
+                            -> users are restricted
+                        -> public project (angularjs, react js)
+                            -> any user can access the project files
+                            
+                ->1. signin with github, bitbucket
+                ->2. repository (files are stored)
+                ->3. push command to upload files from your local to repository
+                ->4. pull command from repo to local
+                
+                -> create branches
+                    -> Create table // branch a
+                    -> update table // branch b
+                 -> merge the branch a & branch b and make it as a single file   
+                 
+=============================================================================================
+Sharing the libraries
+    -> bootstrap -> CSS Framework, which available to all
+    
+    -> json file that will have the datas of the 3rd party development codes
+        -> upload the libraries to the repo but we upload only the json file
+        
+   To host 3rd party development files
+        -> bower, npm, yarn
+        -> Have node js in your system
+        
+        -> use this in command prompt node --version
+        -> close the command prompt and reopen again it will work
+        
+        
+        ============================================================
+        
+        1. you should be in the command prompt on the project folder
+            -> open the folder -> click on the address bar and type cmd
+        2. git init
+        3. add the files
+        4. commit the files (short description on what you have done)
+        5. push
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
